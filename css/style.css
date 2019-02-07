@@ -1428,3 +1428,10 @@ h2 {
 .l-latest-posts h5 {
     font-weight: 700;
 }
+
+.partnersLogos > div > img {
+    width: 200px;
+    height: 200px;
+    object-fit: scale-down;
+    object-position: center;
+}
