@@ -1435,3 +1435,7 @@ h2 {
     object-fit: scale-down;
     object-position: center;
 }
+
+.mfp-close {
+    background-color: transparent !important;
+}

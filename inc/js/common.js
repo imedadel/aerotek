@@ -127,7 +127,10 @@ lightbox
 
         jQuery('.image-link').magnificPopup({type: 'image'});
 
-
+        $('.image-popup-link').magnificPopup({
+            type: 'image',
+            // other options
+          });
 
  /* ==============================================
 Setting slider height on load
